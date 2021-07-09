@@ -17,17 +17,17 @@
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-typescript": "^7.13.0",
-    "@parcel/transformer-sass": "^2.0.0-nightly.728",
+    "@parcel/transformer-sass": "^2.0.0-nightly.762",
     "@tailwindcss/forms": "^0.3.2",
     "@types/phoenix": "^1.5.1",
     "@types/phoenix_live_view": "^0.14.0",
     "autoprefixer": "^10.2.5",
     "node-sass": "^4.13.1",
-    "parcel": "^2.0.0-nightly.726",
+    "parcel": "^2.0.0-nightly.760",
     "parcel-plugin-stdin": "^0.1.1",
     "postcss": "^8.2.12",
     "postcss-modules": "^3.2.2",
-    "sass": "^1.32.12",
-    "tailwindcss": "^2.2.2"
+    "sass": "^1.35.2",
+    "tailwindcss": "^2.2.4"
   }
 }

@@ -3,8 +3,7 @@
   "description": " ",
   "license": "MIT",
   "scripts": {
-    "watch": "npm run copy-static-files && parcel watch js/app.ts css/*.sass --dist-dir ../priv/static",
-    "copy-static-files": "mkdir ./priv/static/; cp -R static/* ./priv/static/"
+    "watch": "parcel watch js/app.ts css/*.sass --dist-dir ../priv/static"
   },
   "dependencies": {
     "alpinejs": "^2.8.2",
